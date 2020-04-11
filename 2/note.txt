@@ -1,3 +1,153 @@
 - Getting more interviews
 
-	- 
+	- Resume
+
+		- https://www.resumemaker.online/
+
+		- One page, relavent skills, personalized, online link
+
+		- Resume Cheat Sheet
+
+			✅ Use a pre-designed resume template
+			✅ Make the resume fit on 1 page
+			✅ Include words from job description
+			✅ Include company name you are applying to
+			✅ Does your first item on your resume reflect what they are looking for?
+			✅ Experience titles demonstrate value
+			✅ Do you have an online link?
+			✅ Remove the word “I”
+			✅ No buzzwords describing how great you are
+			✅ Are you using Action words?
+			✅ Measure everything in terms of impact, don’t just describe your responsibilities
+			✅ Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive
+			✅ Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
+			✅ No typos or bad grammar
+
+		- https://www.jobscan.co/
+
+		- https://www.cakeresume.com/Engineering-resume-samples
+
+		- https://thisresumedoesnotexist.com/
+
+	- No Experience
+
+		- Github
+
+		- Open source
+
+		- website
+
+		- https://github.com/zero-to-mastery/start-here-guidelines
+
+		- https://github.com/zero-to-mastery/ZtM-Job-Board
+
+		- 1 or 2 big Projects
+
+		- Blog
+
+	- Portfolio
+
+		- If you are looking for a quick and efficient way of building a portfolio page, I recommend these free templates:
+
+			https://cruip.com/ (This is my favourite)
+
+			Mashup Templates
+
+			Bootstrap Templates
+
+			Creative Tim Templates
+
+	- Reach out
+
+		- Email
+
+			Hey $BOB,
+			I saw your presentation at $CONFERENCE last year on Youtube (rr point to some work they have done).
+			Great stuff; loved what you did with $FOO, in particular
+			$COMMENT_PROVING_YOU_KNOW_WHAT_YOU'RE_TALKING_ABOUT.
+			I'm also a $FOO developer. I noticed that your company is hiring
+			or $ROLE. I’d love to be a part of your team. Do you have a
+			few minutes to chat on Thursday about what you guys are doing?
+ 
+			Thanks,
+			Yourname
+			Your website or any public profile link
+
+
+	- Finding Jobs
+
+
+		My Favourites:
+
+			LinkedIn Jobs
+
+			HackerNews Who is Hiring (You will need to search for most recent month)
+
+			AngelList
+
+			Seen: One company that I think is doing something interesting and may help you get a job is Seen by Indeed.
+
+			Seen is a platform that helps software engineers find jobs at top tech companies. It's 100% free for all candidates (students) and gives you Career Coaching, Resume Review, Interview Prep and Salary Negotiation.. they charge the recruiter, so if you are a good candidate, they get you hired and they make money through the company and not you... (it's free to you).  Seen tries to find a job from their list of 10,000 companies.
+
+			Evaluate if this is something you might want to attempt but I know a few people who have had a good experience with this... keep in mind this is an affiliate link but I think they are doing something great: click here to check it out
+
+
+
+			Remote Jobs:
+			https://designmodo.com/jobs/
+			https://www.remotelist.pw/
+			https://remoteonly.io/
+			https://weworkremotely.com/
+			https://remoteok.io/
+
+			Others:
+
+			Hired (FYI, this is my personal referral link)
+
+			TripleByte
+
+			Whitetruffle
+
+			Zip Recruiter
+
+			Meetup.comMy Favourites:
+
+			LinkedIn Jobs
+
+			HackerNews Who is Hiring (You will need to search for most recent month)
+
+			AngelList
+
+			Seen: One company that I think is doing something interesting and may help you get a job is Seen by Indeed.
+
+			Seen is a platform that helps software engineers find jobs at top tech companies. It's 100% free for all candidates (students) and gives you Career Coaching, Resume Review, Interview Prep and Salary Negotiation.. they charge the recruiter, so if you are a good candidate, they get you hired and they make money through the company and not you... (it's free to you).  Seen tries to find a job from their list of 10,000 companies.
+
+			Evaluate if this is something you might want to attempt but I know a few people who have had a good experience with this... keep in mind this is an affiliate link but I think they are doing something great: click here to check it out
+
+
+
+			Remote Jobs:
+			https://designmodo.com/jobs/
+			https://www.remotelist.pw/
+			https://remoteonly.io/
+			https://weworkremotely.com/
+			https://remoteok.io/
+
+			Others:
+
+			Hired (FYI, this is my personal referral link)
+
+			TripleByte
+
+			Whitetruffle
+
+			Zip Recruiter
+
+			Meetup.com
+
+
+	- Start applying
+
+		- Now
+
+		- 
